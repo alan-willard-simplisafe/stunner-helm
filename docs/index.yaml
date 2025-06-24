@@ -19,9 +19,9 @@ entries:
       artifacthub.io/license: MIT License
     apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-06-23T13:07:13.837165-04:00"
+    created: "2025-06-24T16:56:48.238173-04:00"
     description: STUNner Kubernetes Gateway Operator
-    digest: 9a8f9368363ffa339b87d2d9e4dd96ca96b769020fa384233f7f94d56fe4a822
+    digest: fe4b9263fd0b61388ea3b0870263a9f6bcbc6e0b812431c93c061813d067e304
     icon: https://raw.githubusercontent.com/l7mp/stunner/main/docs/img/stunner.svg
     maintainers:
     - email: info@l7mp.io
@@ -32,4 +32,4 @@ entries:
     urls:
     - https://alan-willard-simplisafe.github.io/stunner-helm/stunner-1.1.0.tgz
     version: 1.1.0
-generated: "2025-06-23T13:07:13.831192-04:00"
+generated: "2025-06-24T16:56:48.23381-04:00"
